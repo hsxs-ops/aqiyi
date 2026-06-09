@@ -1,0 +1,3 @@
+// 图标SVG符号定义，可替换为官方图标库
+var svg = '<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><symbol id="icon-aiqiyi-" viewBox="0 0 1024 1024"><path d="M512 0C229.2 0 0 229.2 0 512s229.2 512 512 512 512-229.2 512-512S794.8 0 512 0z m234.6 554.4l-320 184.8c-23.3 13.4-52.1-1.8-52.1-28V312.8c0-26.2 28.8-41.4 52.1-28l320 184.8c12.4 7.2 19.4 20.9 19.4 35.2 0 14.3-7 28-19.4 35.2z"></path></symbol></svg>';
+document.body.insertAdjacentHTML('afterbegin', svg);
